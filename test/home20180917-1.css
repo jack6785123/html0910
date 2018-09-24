@@ -1,0 +1,19 @@
+body{
+    background-image:url('123.jpg');
+    background-color: #000078;
+    background-repeat:no-repeat;
+    margin-right:200px;
+}
+h1{
+    color: aqua;
+    margin-left: 24px;
+    text-align: center;
+}
+.button{
+    background-color:brown;
+    border-style:double ;
+
+}
+.button:hover{
+
+}
